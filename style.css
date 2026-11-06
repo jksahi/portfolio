@@ -54,7 +54,7 @@ ul { list-style: none; }
   position: relative; min-height: 100vh;
   background:
     linear-gradient(to top, rgba(0,0,0,.35), rgba(0,0,0,0) 50%),
-    url("images/hero.jpg") 50% 45% / cover no-repeat,
+    url("hero.jpg") 50% 45% / cover no-repeat,
     linear-gradient(135deg, #3b3039, #8a756a 60%, #c9ada1);
   display: flex; align-items: flex-end;
 }
